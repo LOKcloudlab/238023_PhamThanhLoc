@@ -18,7 +18,7 @@ app.get('/health', (req, res) => {
   res.status(200).json({ status: 'OK', message: 'Backend service is healthy' });
 });
 
-app.use('/api/employees', require('./routes/employeeRoutes'));
+app.use('/api/employees', require('./routes/employeesRoutes'));
 
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
