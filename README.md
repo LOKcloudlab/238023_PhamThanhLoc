@@ -79,4 +79,4 @@ Link Docker Hub Backend: https://hub.docker.com/r/lokcloudlab/backend
 Link Docker Hub Frontend: https://hub.docker.com/r/lokcloudlab/frontend
 Link Render App (Frontend): https://web-238023.onrender.com
 Link Render API (Backend): https://api-238023.onrender.com/api/employees
-Link MongoDB Atlas: MONGO_URI=mongodb+srv://ptcptlst01edu_db_user:01689868380Cong@238023-phamthanhloc.6iztb57.mongodb.net/238023_PhamThanhLoc?retryWrites=true&w=majority
+Link MongoDB Atlas: mongodb+srv://ptcptlst01edu_db_user:0168986380Cong@238023-phamthanhloc.6kmk7ye.mongodb.net/238023_PhamThanhLoc?retryWrites=true&w=majority
